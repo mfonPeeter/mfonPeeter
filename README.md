@@ -14,6 +14,8 @@ I'm a frontend developer that is career driven, hardworking and loves building w
 ![Mfonobong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfonPeeter&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfonPeeter&layout=compact&show_icons=true&theme=tokyonight)
 
+<br/>
+
 <!--
 **mfonPeeter/mfonPeeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
