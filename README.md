@@ -1,7 +1,7 @@
 # Hi there👋 I'm Mfonbong!✌️
 
 ## 💫 About Me:
-I'm a frontend developer that is career driven, hardworking and loves building websites.<br><br>🔭 I’m currently working on an e-commerce website, a website clone and a todo list<br>🌱 I’m currently learning more about frontend development<br>❓ Ask me about anything related to frontend development <br>👯 I’m looking to collaborate on frontend related projects<br>🧑🏽‍💻   Open to a remote junior frontend developer job, please contact me on LinkedIn<br>
+I'm a Frontend developer that is career driven, hardworking and loves building websites.<br><br>🔭 I’m currently working on an E-commerce website, a website clone and a todo list<br>🌱 I’m currently learning more about Frontend development<br>❓ Ask me about anything related to Frontend development <br>👯 I’m looking to collaborate on Frontend related projects<br>🧑🏽‍💻   Open to a remote junior Frontend developer job, please contact me on LinkedIn<br>
 
 
 ## 🌐 Socials:
