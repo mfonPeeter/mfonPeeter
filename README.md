@@ -12,10 +12,10 @@ I'm a frontend developer that is career driven, hardworking and loves building w
 
 ## 📊 GitHub Stats:
 ![Mfonobong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfonPeeter&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfonPeeter&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfonPeeter&layout=compact&show_icons=true&theme=tokyonight)
 
 ---
-[![Profile Views](https://visitcount.itsvg.in/api?id=mfonPeeter&icon=0&color=0)](https://github.com/mfonPeeter)
+![Profile Views](https://visitcount.itsvg.in/api?id=mfonPeeter&icon=0&color=0)
 
 
 <!--
