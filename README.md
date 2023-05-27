@@ -1,4 +1,4 @@
-# Hi there👋 I'm Mfonbong!✌️
+# Hi there👋 I'm Mfonobong!✌️
 
 ## 💫 About Me:
 I'm a Frontend developer that is career driven, hardworking and loves building websites.<br><br>🌱 I’m currently learning more about Frontend development<br>❓ Ask me about anything related to Frontend development <br>👯 I’m looking to collaborate on Frontend related projects<br>🧑🏽‍💻 Open to a remote junior Frontend React developer job, please contact me on LinkedIn<br>
