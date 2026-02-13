@@ -32,12 +32,6 @@ I build production-grade web applications with 3 years of experience across heal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mfonpeeter) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mfonPeeter) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://mfonpeter.com)
 
 **Email:** godimfon@gmail.com
-
-## 📊 GitHub Stats
-
-![Mfonobong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfonPeeter&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfonPeeter&layout=compact&show_icons=true&theme=tokyonight)
-
 ---
 
 💡 **Open to:** Frontend Engineer opportunities (remote preferred)
